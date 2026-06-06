@@ -101,3 +101,19 @@ Bonito pueblo en Albacete
 
 <section>
     </section>
+    
+    
+<div class="mapa"><br>
+</div>
+
+
+
+
+<footer>
+    </footer>
+<p><img style="width: 1600px; height: 900px;" alt="" src="file:///home/carcas/Documents/3EV/PUEBLO/Screenshot_20260416_114820.png"><br>
+</p>
+
+
+
+</body></html>
