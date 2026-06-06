@@ -3,7 +3,7 @@ Bonito pueblo en Albacete
 <html><head>
   
   <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
-PUEBLOLARODA
+
 
   
 <meta charset="UTF-8">
