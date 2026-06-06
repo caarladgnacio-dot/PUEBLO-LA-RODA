@@ -27,3 +27,40 @@ Bonito pueblo en Albacete
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
             margin: 0;
+}
+        header {
+            background-color: #8B0000;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #8B0000;
+        }
+        .mapa {
+            text-align: center;
+            margin-top: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+
+
+<header>
+    </header>
+<h1>Descubre La Roda (Albacete)</h1>
+
+    
+<p>Un lugar lleno de tradición y sabor</p>
+
+
+
+<section>
+    </section>
